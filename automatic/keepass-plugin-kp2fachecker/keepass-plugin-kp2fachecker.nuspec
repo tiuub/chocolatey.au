@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>keepass-plugin-kp2fachecker</id>
+    <version>1.1.0</version>
+    <title>KeePass Plugin KP2faChecker</title>
+    <authors>tiuub</authors>
+    <projectUrl>https://github.com/tiuub/KP2faChecker</projectUrl>
+    <tags>keepass plugin totp 2fa kp2fachecker</tags>
+    <summary>Plugin for KeePass 2.x to display whether a website supports 2FA</summary>
+    <description>KP2faChecker is a plugin for [KeePass](http://keepass.info). It provides a column and a form to display whether or not they support 2FA.</description>
+    <copyright>© tiuub</copyright>
+    <licenseUrl>https://github.com/tiuub/KP2faChecker/blob/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes>
+Release notes at [GitHub Releases](https://github.com/tiuub/KP2faChecker/releases/) page.
+    </releaseNotes>
+    <dependencies>
+      <dependency id="keepass" version="[2.09, 3.0)" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
