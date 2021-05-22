@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>keepass-plugin-kp2fachecker</id>
-    <version>1.1.0</version>
+    <version>1.1.1</version>
     <title>KeePass Plugin KP2faChecker</title>
     <authors>tiuub</authors>
     <projectUrl>https://github.com/tiuub/KP2faChecker</projectUrl>
