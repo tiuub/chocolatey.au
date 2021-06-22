@@ -9,8 +9,8 @@ if ($psver -ge 3) {
 $packageName = 'keepass-plugin-keeotp2'
 $typName = 'KeeOtp2.plgx'
 $packageSearch = 'KeePass Password Safe'
-$url = 'https://github.com/tiuub/KeeOtp2/releases/download/v1.5.5/KeeOtp2.plgx'
-$checksum = 'ab1faed5650281266dba94e7ae51ff682a43215431098a72d137be65b7693877'
+$url = 'https://github.com/tiuub/KeeOtp2/releases/download/v1.5.6.1/KeeOtp2.plgx'
+$checksum = 'acf1aa74a1a7c6a37dde5315c89769b816d0ad5f711e90a6953902d1dbc1f8d3'
 $checksumType = 'sha256'
 
 try {
