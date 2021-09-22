@@ -10,7 +10,7 @@ $packageName = 'keepass-plugin-passwordchangereminder'
 $typName = 'PasswordChangeReminder.plgx'
 $packageSearch = 'KeePass Password Safe'
 $url = 'https://github.com/tiuub/PasswordChangeReminder/releases/download/v1.2.0/PasswordChangeReminder.plgx'
-$checksum = ''
+$checksum = 'ce38479712510243b052aecfdf3f387dde0670bc9b5c862d953fe3d7d25f9cbe'
 $checksumType = 'sha256'
 
 try {
