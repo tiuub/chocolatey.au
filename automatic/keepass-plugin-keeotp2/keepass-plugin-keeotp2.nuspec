@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>keepass-plugin-keeotp2</id>
-    <version>1.5.6.1</version>
+    <version>1.5.7</version>
     <title>KeePass Plugin KeeOtp2</title>
     <authors>tiuub</authors>
     <projectUrl>https://github.com/tiuub/KeeOtp2</projectUrl>
